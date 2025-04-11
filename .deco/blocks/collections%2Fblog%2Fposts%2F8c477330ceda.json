@@ -1,0 +1,14 @@
+{
+  "name": "collections/blog/posts/8c477330ceda",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "authors": [],
+    "categories": [],
+    "extraProps": [],
+    "title": "Teste2",
+    "excerpt": "Teste2",
+    "date": "2025-04-11",
+    "slug": "tste2",
+    "content": "<p>teste</p>"
+  }
+}

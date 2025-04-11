@@ -1,0 +1,18 @@
+{
+  "name": "collections/blog/posts/9a0a7bde0d17",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "seo": {
+      "title": "teste",
+      "description": "teste"
+    },
+    "title": "Teste",
+    "excerpt": "Teste",
+    "slug": "teste1",
+    "authors": [],
+    "categories": [],
+    "content": "<p>test</p>",
+    "extraProps": [],
+    "date": "2025-04-11"
+  }
+}
